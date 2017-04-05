@@ -1,6 +1,6 @@
 {
   "name": "angular-bootstrap-gsresettableinput",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "authors": [
     "Sebastian Hammerl, Getslash GmbH"
   ],
@@ -21,6 +21,7 @@
     "clear"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/sebastianha/angular-bootstrap-gsresettableinput",
   "ignore": [
     "**/.*",
     "node_modules",
